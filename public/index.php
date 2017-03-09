@@ -4,7 +4,9 @@
     require("../includes/config.php"); 
 
     // render portfolio
-    render("portfolio.php", ["title" => "Portfolio"]);
+    //render("portfolio.php", ["title" => "Portfolio"]);
+    readfile("../views/portfolio.php");
+
 
 ?>
 //fidget cube
