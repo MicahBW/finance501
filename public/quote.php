@@ -6,7 +6,7 @@
     
      render("dash.php", []);
     
-    
+    readfile("../views/cdash.php");
     
     
     
