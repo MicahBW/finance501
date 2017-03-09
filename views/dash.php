@@ -1,5 +1,5 @@
 
-<head>
+<head lang = "en">
 
     <meta charset="utf-8" lang="en">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
